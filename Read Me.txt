@@ -1,0 +1,8 @@
+Day 2 – Python OOP Practice
+
+This mini project demonstrates:
+- Classes and inheritance
+- File read/write
+- Basic student record management
+
+Each student is saved in a text file and loaded as an object.
